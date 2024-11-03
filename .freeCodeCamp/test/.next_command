@@ -220,3 +220,8 @@ git remote -v
 git remote add origin https://github.com/BathandwaMthethwa002/fcc-postgresql-universedb.git
 git remote -v
 git add .
+git commit -m "init commit"
+git push
+git push -u origin master
+git branch
+git add .
